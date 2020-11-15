@@ -6,7 +6,6 @@ in the day and develop React-Native apps at night.
 - 🤔 I’m looking for help with: Hermes 
 - 💬 Ask me about: Computer Vision dev and deployment 
 - 📫 How to reach me: Vaibhavpandit21@gmail.com 
-- ⚡ Fun fact: An average engineer day-dreams of becoming a PM 11 times a day (Just Kidding,Just Kidding the actual number is 387)
 
 <!--
 **Vaibhav21pandit/Vaibhav21pandit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
